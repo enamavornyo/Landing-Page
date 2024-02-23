@@ -59,7 +59,7 @@ $(document).ready(function () {
 
 // AOS
 AOS.init({
-  offset: 121,
+  offset: 120,
   delay: 0,
   duration: 1200,
   easing: 'ease',
